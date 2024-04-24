@@ -1,0 +1,16 @@
+{
+  "name": "bbyte47/workopia",
+  "description": "Job listing application from Udemy course PHP 2024",
+  "authors": [
+    {
+      "name": "Gregg Flora",
+      "email": "cgf81@bbyteonline.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}

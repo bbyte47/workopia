@@ -1,0 +1,14 @@
+{
+    "name": "bbyte47/workopia",
+    "description": "Simple PHP Web Framework",
+    "authors": [{
+        "name": "Gregg Flora",
+        "email": "cgf81@bbyteonline.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
